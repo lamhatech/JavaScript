@@ -50,7 +50,7 @@ function recent_post_style(){
 function recent_post_content(){
     var s = "<div id='recent_post' title='أحدت التدوينات'>";
     if(info_text){
-    s += "<div class='wrapper'>";
+    s += "<div class='news'>";
     s += "<div class='newstitle'>";
     s += "أحدت التدوينات";
     s += "</div>";
